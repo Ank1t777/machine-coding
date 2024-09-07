@@ -1,0 +1,12 @@
+.counter--app{
+  text-align: center;
+}
+
+
+.app--history{
+  margin: 100px auto;
+  width: 400px;
+  height: 300px;
+  border: 1px solid rgb(27, 26, 26);
+  overflow-y: scroll;
+}
